@@ -1,0 +1,14 @@
+How to work with GameMaker Tale of Pythonia
+*Because of GameMaker file is too big to up load in github , so I had uploaded to google drive.
+**If you what to access my code you must doing follow this step.
+1. go to "GameMaker_project.txt" in karnthiLOL/Tale-of-Pythonia github
+2. in GameMaker_project.txt you will see a google drive's link ,you must open it.
+3. in my google drive "Tale of Pythonia" there are 3 file
+	- Tale-of-Pythonia folder
+	- Tale_of_pythonia_zip.zip
+	and - TaleOfPhytonia_WindowOSinstaller.exe
+the second and third files are installer of the game
+4. dowload "Tale-of-Pythonia folder" , It's a gamer project folder.
+5. After dowloading finish , Extract the file
+6. in Tale-of-Pythonia you will see "Tale Of Pythonia.yyp" there is a project.
+You can open it with GameMaker and work on it.
